@@ -7,10 +7,10 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "safe",
+        "aim": "unsafe",
         "esp": "safe",
         "bullettrack": "unsafe",
-        "sdk": "unsafe"
+        "sdk": "safe"
       }
     },
     "com.tencent.ig": {
@@ -18,10 +18,10 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "safe",
+        "aim": "unsafe",
         "esp": "safe",
         "bullettrack": "unsafe",
-        "sdk": "unsafe"
+        "sdk": "safe"
       }
     },
     "com.pubg.krmobile": {
@@ -29,10 +29,10 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "safe",
+        "aim": "unsafe",
         "esp": "safe",
         "bullettrack": "unsafe",
-        "sdk": "unsafe"
+        "sdk": "safe"
       }
     },
     "com.vng.pubgmobile": {
@@ -40,10 +40,10 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "safe",
+        "aim": "unsafe",
         "esp": "safe",
         "bullettrack": "unsafe",
-        "sdk": "unsafe"
+        "sdk": "safe"
       }
     },
     "com.rekoo.pubgm": {
@@ -51,10 +51,10 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "safe",
+        "aim": "unsafe",
         "esp": "safe",
         "bullettrack": "unsafe",
-        "sdk": "unsafe"
+        "sdk": "safe"
       }
     }
   }
