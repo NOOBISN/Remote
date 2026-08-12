@@ -18,7 +18,7 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "unsafe",
+        "aim": "safe",
         "esp": "safe",
         "bullettrack": "unsafe",
         "sdk": "safe"
@@ -29,7 +29,7 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "unsafe",
+        "aim": "safe",
         "esp": "safe",
         "bullettrack": "unsafe",
         "sdk": "safe"
@@ -40,7 +40,7 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "unsafe",
+        "aim": "safe",
         "esp": "safe",
         "bullettrack": "unsafe",
         "sdk": "safe"
@@ -51,7 +51,7 @@
       "floating": true,
       "version": "4.5.0",
       "features": {
-        "aim": "unsafe",
+        "aim": "safe",
         "esp": "safe",
         "bullettrack": "unsafe",
         "sdk": "safe"
